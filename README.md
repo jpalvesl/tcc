@@ -1,6 +1,6 @@
 # TCC
 
-**Alunos**: João Pedro e Myrlla Lucas
+**Alunos**: João Pedro e [Myrlla Lucas](https://github.com/myrlla)
 
 ---
 
@@ -24,3 +24,14 @@ Backend | https://github.com/jpalvesl/tcc-back
 
 ---
 
+### Esquema do banco de dados
+
+---
+
+### Prototipo do sistema
+
+[Telas do sistema](https://www.figma.com/file/XgbSppLz6PHy1X8EVcSfJD/TCC---Jo%C3%A3o-e-Myrlla?node-id=26%3A3)
+
+[Sitemap do sistema](https://whimsical.com/tcc-sitemap-SrDTqe5tKpqqSF1KyJArNU)
+
+---
