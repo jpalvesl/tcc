@@ -14,8 +14,40 @@ Backend | https://github.com/jpalvesl/tcc-back
 
 ---
 
-### Ferramentas e tecnologias utilizadas
+## Ferramentas e tecnologias utilizadas
 
+
+### Arquitetura
+- Clean Architecture
+
+### Tecnologias
+#### Frontend
+1. React
+2. AntDesing
+3. Javascript
+4. Typescript
+
+#### Backend
+1. Java
+2. Spring Boot
+3. MariaDB x PostgreSQL (*A definir*)
+4. Bcrypt
+
+### Ferramentas
+1. Git
+2. Github
+3. Docker (*Talvez*)
+4. Figma
+5. Whimsical
+6. Lucidchart x brModelo (*A definir*)
+7. Notion
+8. Metodologia ágil
+9. LaTeX (*Verificar se fica ou não*)
+
+### Testes
+1. Testes de unidade
+2. Teste de integração
+3. Teste de usabilidade
 
 ---
 
@@ -25,6 +57,15 @@ Backend | https://github.com/jpalvesl/tcc-back
 ---
 
 ### Esquema do banco de dados
+#### Entidades
+- Professor
+- Aluno
+- Monitor
+- Turma
+- Problema
+- Tarefa
+- Submissões
+
 
 ---
 
