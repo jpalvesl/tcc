@@ -39,10 +39,9 @@ Backend | https://github.com/jpalvesl/tcc-back
 3. Docker (*Talvez*)
 4. Figma
 5. Whimsical
-6. Lucidchart x brModelo (*A definir*)
+6. brModelo
 7. Notion
-8. Metodologia ágil
-9. LaTeX (*Verificar se fica ou não*)
+8. Metodologia ágil (*Descrever*)
 
 ### Testes
 1. Testes de unidade
@@ -58,13 +57,14 @@ Backend | https://github.com/jpalvesl/tcc-back
 
 ### Esquema do banco de dados
 #### Entidades
-- Professor
-- Aluno
-- Monitor
-- Turma
-- Problema
-- Tarefa
-- Submissões
+- [x] Professor
+- [x] Aluno
+- [x] Monitor
+- [x] Turma
+- [x] Problema
+- [x] Tarefa
+- [x] Submissões
+- [ ] Instituição
 
 
 ---
