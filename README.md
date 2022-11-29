@@ -28,9 +28,9 @@ Backend | https://github.com/jpalvesl/tcc-back
 4. Typescript
 
 #### Backend
-1. Java
-2. Spring Boot
-3. MariaDB x PostgreSQL (*A definir*)
+1. [Java](https://www.java.com/pt-BR/)
+2. [Spring Boot](https://spring.io/projects/spring-boot)
+3. [MariaDB](https://mariadb.org/)
 4. Bcrypt
 
 ### Ferramentas
@@ -38,9 +38,9 @@ Backend | https://github.com/jpalvesl/tcc-back
 2. Github
 3. Docker (*Talvez*)
 4. Figma
-5. Whimsical
-6. brModelo
-7. Notion
+5. [Whimsical](https://whimsical.com/)
+6. [brModelo](http://www.sis4.com/)
+7. [Notion](https://www.notion.so/)
 8. Metodologia ágil (*Descrever*)
 
 ### Testes
