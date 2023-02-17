@@ -11,6 +11,8 @@ Repositório   | Link
 --------- | ------
 Frontend | https://github.com/jpalvesl/tcc-front
 Backend | https://github.com/jpalvesl/tcc-back
+Online Judge | https://github.com/jpalvesl/tcc-online-judge-python
+
 
 ---
 
@@ -36,7 +38,7 @@ Backend | https://github.com/jpalvesl/tcc-back
 ### Ferramentas
 1. Git
 2. Github
-3. Docker (*Talvez*)
+3. Docker
 4. Figma
 5. [Whimsical](https://whimsical.com/)
 6. [brModelo](http://www.sis4.com/)
